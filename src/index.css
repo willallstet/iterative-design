@@ -42,6 +42,10 @@ code {
     monospace;
 }
 
+ul {
+padding-left: 4.5%;
+}
+
 .sketches{
   display: flex;
   padding-left: 4%;
