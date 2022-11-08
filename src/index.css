@@ -50,3 +50,7 @@ code {
   display: flex;
   justify-content: center;
 }
+
+footer{
+  padding: 30px;
+}
