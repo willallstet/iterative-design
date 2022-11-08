@@ -34,3 +34,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.sketches{
+  display: flex;
+  padding-left: 4%;
+  padding-right: 4%;
+  justify-content: center;
+  padding-bottom: 2%;
+}
+.sketches img{
+  width: 30%;
+}
+
+.figma {
+  display: flex;
+  justify-content: center;
+}
