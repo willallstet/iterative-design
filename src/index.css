@@ -8,6 +8,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+p {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
 .main-title{
   text-align: center;
   font-size: xx-large;
@@ -22,7 +27,7 @@ body {
   font-family: Poppins;
   font-weight: 600;
   color: #7A41EA;
-  padding: 1%;
+  margin-left: 2%;
 }
 
 code {
