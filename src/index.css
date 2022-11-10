@@ -58,6 +58,10 @@ padding-left: 4.5%;
   padding: 2%
 }
 
+.centered{
+
+}
+
 .figma {
   display: flex;
   justify-content: center;
