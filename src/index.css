@@ -58,8 +58,10 @@ padding-left: 4.5%;
   padding: 2%
 }
 
-.centered{
-
+.videos{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .figma {
