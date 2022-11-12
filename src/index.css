@@ -68,6 +68,9 @@ padding-left: 4.5%;
   display: flex;
   justify-content: center;
 }
+iframe{
+  padding: 5px;
+}
 
 footer{
   padding: 30px;
